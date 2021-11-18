@@ -1,4 +1,28 @@
-The folder Master_thesis-Job_report_analysis contains the following files:
+## Master_thesis-Job_report_analysis
+
+This repository contains the code and some additional files produced for the final master thesis project on job report analysis.
+
+Author: Dal Zotto Luca
+
+Title: Text Mining and Machine Learning techniques for job report analysis
+
+Supervisor: Bruno Scarpa
+
+
+### Repository structure
+
+- models:
+  folder containing the two best models trained on the original dataset and the corresponding word
+  vectorizer.
+
+- putting into production:
+  folder containing two cleaned notebooks that can be used for the putting into production.
+  One is used for hyper-parameters tuning and for training the models, the other is used
+  to compute predictions on the new dataset.
+
+- results: 
+  folder containing the predictions of the two best models for the new test set.
+
 
 - 1_Exploration_&_Preprocessing.ipynb -> notebook reporting the exploration and 
 					 pre-processing phases.
@@ -16,16 +40,3 @@ The folder Master_thesis-Job_report_analysis contains the following files:
 - 3_Final_test.ipynb -> notebook containing pre-processing and final tests of the best model
 			in the new dataset.
 
-Subfolders:
-
-- models:
-  contains the two best models trained on the original dataset and the corresponding word
-  vectorizer.
-
-- putting into production:
-  contains two cleaned notebooks that can be used for the putting into production.
-  One is used for hyper-parameters tuning and for training the models, the other is used
-  to compute predictions on the new dataset.
-
-- results: 
-  contains the predictions of the two best models for the new test set.
