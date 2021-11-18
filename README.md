@@ -15,7 +15,7 @@ Supervisor: Bruno Scarpa
   folder containing the two best models trained on the original dataset and the corresponding word
   vectorizer.
 
-- putting into production:
+- putting_into_production:
   folder containing two cleaned notebooks that can be used for the putting into production.
   One is used for hyper-parameters tuning and for training the models, the other is used
   to compute predictions on the new dataset.
