@@ -24,19 +24,22 @@ Supervisor: Bruno Scarpa
   folder containing the predictions of the two best models for the new test set.
 
 
-- 1_Exploration_&_Preprocessing.ipynb -> notebook reporting the exploration and 
+- 1_Exploration_&\_Preprocessing.ipynb -> notebook reporting the exploration and 
 					 pre-processing phases.
 
-- 2.1_ML_models_&_FFNN.ipynb -> notebook with the implementation and training procedure of 
+- 2.1_ML_models_&\_FFNN.ipynb -> notebook with the implementation and training procedure of 
 			        the Machine Learning models and the FFNN architectures.
 
 - 2.2_RNN_models.ipynb -> notebook with the implementation and training procedure of the RNN
 
-- 2.3_RNN_features_&_dimensionality_reduction.ipynb -> notebook with the implementation and
+- 2.3_RNN_features_&\_dimensionality_reduction.ipynb -> notebook with the implementation and
 				training procedure of Gradient Boosting model with the 
 				features extracted by the RNN, and with dimensionality 
 				reduction approaches.
 
 - 3_Final_test.ipynb -> notebook containing pre-processing and final tests of the best model
 			in the new dataset.
-
+			
+- Dal_Zotto_Luca_-\_Master_Thesis.pdf -> written dissertation
+			
+- Dal_Zotto_Luca_-\_Presentation_Master_Thesis.pdf -> slides used for the presentation
