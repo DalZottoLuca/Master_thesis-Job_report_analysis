@@ -1,4 +1,4 @@
-## Master_thesis-Job_report_analysis
+## Master thesis - Job report analysis
 
 This repository contains the code and some additional files produced for the final master thesis project on job report analysis.
 
